@@ -2,7 +2,7 @@
 opSyndicate is an Investment Club platform to manage funds (treasury) in opBNB Network.
 
 ## Focus of this project
-The focus, from my experience working with investment managers, is to make it easier for both fund managers and people with capital to work to invest in both crypto and real (off-chain) projects.
+The focus, from our experience working with investment managers, is to make it easier for both fund managers and people with capital to work to invest in both crypto and real (off-chain) projects.
 
 
 ## URL and information
