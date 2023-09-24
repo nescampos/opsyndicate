@@ -9,7 +9,7 @@ const MMSDK = new MetaMaskSDK.MetaMaskSDK();
 
 var contractPublic = null;
 var account = null;
-var iface = new ethers.utils.Interface(contractABI);
+var iface = new ethers.utils.Interface(contractABI); 
 
 async function autenticate() {
   await loginWithMetamask();
