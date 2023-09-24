@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 library ClubLibrary {
-    struct Club {
+    struct Club { 
         uint256 id;
         string name;
         uint256 minimumToEnter;
